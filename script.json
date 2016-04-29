@@ -1,5 +1,5 @@
 {
-    "BOT": "OK, you may not have met a bot before but rest assured it is totally safe and normal in 2016!" "So where should we start? Do you about Richard's %[Personal life] %[Business] %[Random fact]",
+    "BOT": "OK, you may not have met a bot before but rest assured it is totally safe and normal in 2016!", "So where should we start? Do you about Richard's %[Personal life] %[Business] %[Random fact]",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
