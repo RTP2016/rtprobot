@@ -1,5 +1,5 @@
 {
-    "BOT": "OK, you may not have met a bot before but rest assured it is totally safe and normal in 2016!\nSo where should we start?",
+    "BOT": "OK, you may not have met a bot before but rest assured it is totally safe and normal in 2016!\nSo where should we start?" %[business] %[social] %[a bit of both],
     "HELLO": "Hey, I'm so glad to have finally have met you! I can't actually see you right now but what I do know is Richard is smiling about the fact that we are chatting? %[image](img/RTP-6.jpg)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
